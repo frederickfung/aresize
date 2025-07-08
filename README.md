@@ -35,6 +35,8 @@ Usage
 Quick Example:
 ``aresize.exe -p *.jpg``
 
+If you don't want to build it yourself, please download the built binaries at [GitHub Releases](https://github.com/frederickfung/aresize/releases).
+
 Some More Explanation
 ---
 By default, it will do the following:

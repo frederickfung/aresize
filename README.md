@@ -14,6 +14,8 @@ Should be extra easy as I hate tool-chain setup as well.
 3. Run ``go build`` to build the binary for your machine, [or you can cross-compile](https://go.dev/wiki/GccgoCrossCompilation)
 4. There should be an executable built (aresize.exe for Windows)
 
+If you don't want to build it yourself, please download the built binaries at [GitHub Releases](https://github.com/frederickfung/aresize/releases).
+
 Usage
 ---
 
@@ -34,8 +36,6 @@ Usage
 
 Quick Example:
 ``aresize.exe -p *.jpg``
-
-If you don't want to build it yourself, please download the built binaries at [GitHub Releases](https://github.com/frederickfung/aresize/releases).
 
 Some More Explanation
 ---

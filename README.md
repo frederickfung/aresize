@@ -16,6 +16,8 @@ Should be extra easy as I hate tool-chain setup as well.
 
 If you don't want to build it yourself, please download the built binaries at [GitHub Releases](https://github.com/frederickfung/aresize/releases).
 
+For cross-compilation with PowerShell, the syntax to set the environment variables is: ``$Env:GOOS = "linux"; $Env:GOARCH = "arm64"``
+
 Usage
 ---
 
